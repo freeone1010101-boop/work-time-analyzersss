@@ -1,0 +1,15 @@
+FINAL MOBILE VERSION
+
+Use app.py + requirements.txt.
+
+Recommended hosting: Streamlit Community Cloud.
+Open: https://share.streamlit.io/
+
+Choose:
+- Create app
+- Yup, I have an app
+- Repository: your GitHub repository
+- Branch: main
+- Main file: app.py
+
+Then deploy and open the resulting streamlit.app URL on your phone.
